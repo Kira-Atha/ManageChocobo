@@ -1,0 +1,80 @@
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ChocoboManagement.exe
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ChocoboManagement.deps.json
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ChocoboManagement.runtimeconfig.json
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ChocoboManagement.runtimeconfig.dev.json
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ChocoboManagement.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ref\ChocoboManagement.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\ChocoboManagement.pdb
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\System.Collections.Immutable.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\System.ComponentModel.Annotations.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.csproj.AssemblyReference.cache
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\ChocoboEditWindow.g.cs
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\StableEditWindow.g.cs
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\TrainerEditWindow.g.cs
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement_MarkupCompile.cache
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement_MarkupCompile.lref
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\ChocoboEditWindow.baml
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\StableEditWindow.baml
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\TrainerEditWindow.baml
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.g.resources
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.AssemblyInfo.cs
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.csproj.CopyComplete
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ref\ChocoboManagement.dll
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.pdb
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.genruntimeconfig.cache
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Templates\ButtonTemplate.baml
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Templates\WindowTemplate.baml
+C:\Users\Kira\Desktop\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.csproj.AssemblyReference.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Templates\ButtonTemplate.baml
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Templates\WindowTemplate.baml
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\ChocoboEditWindow.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\StableEditWindow.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\Views\TrainerEditWindow.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement_MarkupCompile.cache
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement_MarkupCompile.lref
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ref\ChocoboManagement.dll
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\ChocoboManagement.pdb

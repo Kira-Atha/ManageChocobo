@@ -1,0 +1,20 @@
+﻿ChocoboManagement
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\obj\Debug\net5.0-windows\
+ChocoboManagement
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\Kira\OneDrive - HEPH-Condorcet\Gabriel\1.Ecole 2020-2021\Quad 2\Applications informatiques II (WPF)\ChocoboManagement\ChocoboManagement\ChocoboManagement\App.xaml
+6832153119
+
+242019561379
+2132134743117
+MainWindow.xaml;Templates\ButtonTemplate.xaml;Templates\WindowTemplate.xaml;Views\ChocoboEditWindow.xaml;Views\StableEditWindow.xaml;Views\TrainerEditWindow.xaml;
+
+False
+
