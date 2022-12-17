@@ -1,0 +1,48 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "ChocoboManagementJet2Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "DataAccess",
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "ChocoboManagement",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Chocobo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Stable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Trainer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TrainerStable]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "GAB.ChocoboManagement",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

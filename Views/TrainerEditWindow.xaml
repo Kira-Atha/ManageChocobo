@@ -1,0 +1,30 @@
+﻿<Window x:Class="ChocoboManagement.Views.TrainerEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChocoboManagement.Views"
+        mc:Ignorable="d"
+        Title="Entraîneur" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="10">
+        <Label Content="Prénom" FontSize="15"/>
+        <TextBox Text="{Binding Trainer.TrainerFirstname}"/>
+
+        <Label Content="Nom" FontSize="15"/>
+        <TextBox Text="{Binding Trainer.TrainerLastname}"/>
+
+
+        <Label Content="Ses étables" FontSize="15"/>
+        <ListBox ItemsSource="{Binding TrainerStables}"/>
+
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Étables disponibles"/>
+            <ComboBox ItemsSource="{Binding Stables}" SelectedItem="{Binding SelectedStable}" Width="200" Margin="2"/>
+            <Button Content="Ajouter l'étable à cet entraîneur" x:Name="AddStable" Click="AddStable_Click" Margin="2"/>
+        </StackPanel>
+
+        <Button Content="Sauvegarder" x:Name="SaveButton" Click="SaveTrainerModification_Click" Width="150"  Margin="5" />
+        <Button Content="Annuler" x:Name="CancelButton" Click="CancelButton_Click" Width="150"  Margin="5" />
+    </StackPanel>
+</Window>

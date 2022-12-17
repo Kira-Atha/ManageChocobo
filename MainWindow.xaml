@@ -1,0 +1,45 @@
+﻿<Window x:Class="ChocoboManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChocoboManagement"
+        mc:Ignorable="d"
+        Title="{StaticResource ApplicationName}" Height="800" Width="850"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="10">
+        <Label Content="Page principale" FontSize="25" Foreground="Blue" HorizontalAlignment="Center"/>
+
+
+        <Label Content="Tous les entraîneurs" FontSize="20"/>
+
+        <ListBox ItemsSource="{Binding Trainers}" SelectedItem="{Binding SelectedTrainer}" Width="300" HorizontalAlignment="Left" SelectionChanged="ListBox_SelectionChanged"/>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Inscrire un entraîneur" Width="150" Height="30" Margin="5" x:Name="TrainerAdd" Click="TrainerAdd_Click"/>
+            <Button Content="Modifier l'entraîneur" Width="150" Height="30" Margin="5" x:Name="TrainerModify" Click="TrainerModify_Click"/>
+            <Button Content="Congédier l'entraîneur" Width="150" Height="30" Margin="5" x:Name="TrainerDelete" Click="TrainerDelete_Click"/>
+            <Label Content="Ses étables" FontSize="20"/>
+        </StackPanel>
+        <ListBox ItemsSource="{Binding TrainerStables}" HorizontalAlignment="Right" Width="300"/>
+
+        <Label Content="Toutes les étables" FontSize="20"/>
+        <ListBox ItemsSource="{Binding Stables}" SelectedItem="{Binding SelectedStable}" Width="300" HorizontalAlignment="Left" SelectionChanged="ListBox_SelectionChanged"/>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Ajouter une  étable" HorizontalAlignment="Left" Width="150" Height="30" Margin="5" x:Name="StableAdd" Click="StableAdd_Click"/>
+            <Button Content="Modifier l'étable" HorizontalAlignment="Left" Width="150" Height="30" Margin="5" x:Name="StableModify" Click="StableModify_Click"/>
+            <Button Content="Vendre l'étable" Width="150" Height="30" Margin="5" x:Name="StableDelete" Click="StableDelete_Click"/>
+            <Label Content="Chocobos présents dans l'étable" FontSize="20"/>
+        </StackPanel>
+
+        <ListBox ItemsSource="{Binding StableChocobos}" Width="300" HorizontalAlignment="Right"/>
+
+        <Label Content="Les chocobos disponibles" FontSize="20"/>
+        <ListBox ItemsSource="{Binding ChocobosAvailables}" SelectedItem="{Binding SelectedChocobo}"/>
+
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Ajouter un chocobo" HorizontalAlignment="Left" Width="150" Height="30" Margin="5" x:Name="ChocoboAdd" Click="ChocoboAdd_Click"/>
+            <Button Content="Modifier ce chocobo" HorizontalAlignment="Left" Width="150" Height="30" Margin="5" x:Name="ChocoboModify" Click="ChocoboModify_Click"/>
+            <Button Content="Relâcher le chocobo" Width="150" Height="30" Margin="5" x:Name="ChocoboDelete" Click="ChocoboDelete_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

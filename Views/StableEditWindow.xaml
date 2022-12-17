@@ -1,0 +1,32 @@
+﻿<Window x:Class="ChocoboManagement.Views.StableEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChocoboManagement.Views"
+        mc:Ignorable="d"
+        Title="Étable" Height="650" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="10">
+        <Label Content="Étable" FontSize="25" Foreground="Blue" HorizontalAlignment="Center"/>
+        <Label Content="Nom de l'étable" FontSize="15"/>
+        <TextBox Text="{Binding Stable.StableName}"/>
+        <Label Content="Description de l'étable" FontSize="15"/>
+        <TextBox Text="{Binding Stable.Description}" Height="70" Width="350" HorizontalAlignment="Left"/>
+        
+
+        <Label Content="Chocobos dans l'étable"/>
+        <StackPanel Orientation="Horizontal">
+            <ListBox ItemsSource="{Binding StableChocobos}" SelectedItem="{Binding SelectedChocobo}" Width="200" Margin="2"/>
+            <Button Content="Remettre ce chocobo à l'adoption" x:Name="ToAdoptChocobo" Click="ToAdoptChocobo_Click" Margin="2" Width="200" Height="20"/>
+        </StackPanel>
+    <StackPanel Orientation="Horizontal">
+            <Label Content="Chocobos disponibles"/>
+            <ComboBox ItemsSource="{Binding ChocobosAvailables}" SelectedItem="{Binding SelectedChocobo}" Width="200" Margin="2"/> 
+            <Button Content="Ajouter le chocobo à l'étable" x:Name="AddChocobo" Click="AddChocobo_Click" Margin="2"/>
+        </StackPanel>
+        <Button Content="Sauvegarder" x:Name="SaveButton" Click="SaveStableModification_Click" Width="150"  Margin="5" />
+        <Button Content="Annuler" x:Name="CancelButton" Click="CancelButton_Click" Width="150"  Margin="5" />
+
+    </StackPanel>
+</Window>
